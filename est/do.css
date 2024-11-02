@@ -1,0 +1,17 @@
+@media (align: left) {
+  body {
+    text-align: left;
+  }
+}
+
+@media (align: right) {
+  body {
+    text-align: right;
+  }
+}
+
+@media (align: center) {
+  body {
+    text-align: center;
+  }
+}
